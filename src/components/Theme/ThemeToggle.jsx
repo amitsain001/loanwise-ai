@@ -3,7 +3,7 @@ import { FaSun } from "react-icons/fa";
 
 import {
   useTheme,
-} from "../../context/ThemeContext";
+} from "/src/Context/ThemeContext";
 
 const ThemeToggle = () => {
   const {

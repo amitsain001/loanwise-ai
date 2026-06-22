@@ -6,7 +6,7 @@ import App from "./App";
 import "./index.css";
 
 import { ThemeProvider }
-from "./context/ThemeContext";
+from "/src/Context/ThemeContext";
 
 ReactDOM.createRoot(
   document.getElementById("root")
