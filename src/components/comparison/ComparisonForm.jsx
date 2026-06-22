@@ -2,7 +2,7 @@ import { useState } from "react";
 import { calculateEMI } from "../../utils/emiCalculator";
 import ComparisonTable from "./ComparisonTable";
 import WinnerCard from "./WinnerCard";
-import { findBestLoan } from "../../utils/compareLoans";
+import { findBestLoan } from "../../utils/CompareLoans";
 import toast from "react-hot-toast";
 
 const defaultLoan = {
