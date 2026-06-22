@@ -5,8 +5,7 @@ import { Toaster } from "react-hot-toast";
 import App from "./App";
 import "./index.css";
 
-import { ThemeProvider }
-from "/src/Context/ThemeContext";
+import { ThemeProvider } from "/src/Context/ThemeContext";
 
 ReactDOM.createRoot(
   document.getElementById("root")
