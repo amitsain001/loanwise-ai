@@ -1,4 +1,4 @@
-import ComparisonForm from "../components/Comparison/ComparisonForm";
+import ComparisonForm from "../components/comparison/ComparisonForm";
 import PageWrapper from "../components/UI/PageWrapper";
 
 
